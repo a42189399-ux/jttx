@@ -43,3 +43,8 @@
 3. 安装依赖
    `pip install -r requirements.txt`
 
+
+## 付费交付版额外包含
+- INSTALL.md：更完整的安装与配置手册。
+- config/settings.paid.example.yaml：更完整的示例配置文件。
+- TROUBLESHOOTING.md：常见报错排查与解决方案。
