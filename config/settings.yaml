@@ -1,0 +1,6 @@
+default_exchange: binance
+dry_run: true
+allowed_symbols:
+  - BTCUSDT
+  - ETHUSDT
+max_order_qty: 100
