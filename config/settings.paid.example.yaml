@@ -1,0 +1,12 @@
+default_exchange: binance
+dry_run: true
+
+allowed_symbols:
+  - BTCUSDT
+  - ETHUSDT
+  - SOLUSDT
+
+max_order_qty: 100
+
+log_level: INFO
+retry_times: 1
